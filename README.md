@@ -32,6 +32,8 @@ Campos: id (int 11 – PK - AUTO INCREMENTAL), descrição (varchar 255), finali
 - mysql
 - java 11
 
+**Link de acesso ao projeto: http://localhost:8080/Daily_task/tarefas**
+
 Obs.: O arquivo para configuração da conexão com banco de dados está na pasta (Daily-task/src/main/java/br/com/mayki/daily_task/utils/Conexao.java).
 
 # Como Executar
